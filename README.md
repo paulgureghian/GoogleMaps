@@ -1,2 +1,4 @@
 # GoogleMaps
-Gets your current location in Google Maps using Google Play Services APIs. 
+
+
+img src="current position.png" width="200" height="200">
